@@ -2,7 +2,7 @@
 
 namespace App\Entities;
 
-use App\Exception\ActionNotPossibleException;
+use App\Exceptions\ActionNotPossibleException;
 use App\Traits\MakesSound;
 use App\Entities\Interfaces\Animal;
 

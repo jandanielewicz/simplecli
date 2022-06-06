@@ -3,7 +3,7 @@
 namespace Cli\Command;
 
 use App\Controllers\CommandController;
-use App\Exception\CommandNotFoundException;
+use App\Exceptions\CommandNotFoundException;
 
 class CommandRegistry
 {
